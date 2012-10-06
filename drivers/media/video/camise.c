@@ -22,8 +22,8 @@
 #include <linux/platform_device.h>
 #include <media/camise.h>
 #include "omap34xxcam.h"
-#include <isp/isp.h>
-#include <isp/ispreg.h>
+#include "isp/isp.h"
+#include "isp/ispreg.h"
 #include <linux/io.h>
 #include <linux/mm.h>
 #include <../arch/arm/plat-omap/include/plat/board-mapphone.h>
